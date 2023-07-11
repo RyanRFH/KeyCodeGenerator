@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#headerWrapper {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid red;
+    width: 80vw;
+    align-items: center;
+}
+
+#pageHeader {
+    /* border: 3px solid green; */
+    width: 60vw;
+    text-align: center;
+}
+
+#pageHeader2 {
+    /* border: 3px solid blue; */
+    width: 60vw;
+    text-align: center;
+}
+
+#dataListWrapper {
+    
+}
